@@ -35,7 +35,7 @@ Em produçâo, por ser um projeto vizando avaliaçâo não houve tempo habil par
 
 ## :car: Iniciando a aplicação
 Baixe o repositório com git clone e entre na pasta do projeto.<br/>
-Renomeie os arquivos _.env.example_ da pasta _web_ e _mobile_ para _.env_ e informe o _ip:porta_ da API.<br/>
+
 ```bash
 $ git clone https://github.com/R1chardvieira/Sistema-pedidos
 ```
