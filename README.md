@@ -26,6 +26,7 @@ Em produçâo, por ser um projeto vizando avaliaçâo não houve tempo habil par
 * Back-end
   * __Node__ + __Express__ + __Typescript__
   * __Multer__ para upload de imagens
+  * __Docker__ para criação de container para banco de dados
   * __Mongoose__ + __MongoDb__ para banco de dados
 * Front-end
   * __React__ + __Vite__ + __Typescript__
