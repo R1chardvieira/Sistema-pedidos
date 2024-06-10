@@ -48,7 +48,7 @@ $ yarn dev
 * Front-end
 ```bash
 $ cd ..
-$ cd web
+$ cd frontend
 $ yarn
 $ yarn dev
 ```
