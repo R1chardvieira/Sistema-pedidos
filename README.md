@@ -17,6 +17,10 @@
 A aplicação permitiria lançar pedidos no celular e fechar os pedidos na aplicação web. Os pedidos podem estar na situação Aguardando, Em preparação ou Finalizado.<br />
 O backend armazena os dados em um banco de dados __MongoDb__ e iria interagir com o front-end por meio de __WebSockets__.<br/>
 
+## Status
+
+Em produçâo, por ser um projeto vizando avaliaçâo não houve tempo habil para a conclusao do mesmo.
+
 
 ## :hammer_and_wrench: Tecnologias
 * Back-end
